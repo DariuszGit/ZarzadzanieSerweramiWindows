@@ -1,0 +1,14 @@
+cmd 
+hostname
+whoami
+
+
+logowanie do domeny - domena\nazwakonta
+		    - nazwakonta@domena
+
+
+sprawdzanie polaczenia - ping, test-connection
+info o systemie - systeminfo
+system core - win server bez GUI
+diskmgmt.msc
+Pa$$w0rd

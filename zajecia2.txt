@@ -1,0 +1,7 @@
+active directory - usluga katalogowa skupiajaca obiekty uzytkownikow, komputerow i grup
+
+LA - local administrator
+DA - domain administrator
+EA - enterprise administrator
+
+sconfig

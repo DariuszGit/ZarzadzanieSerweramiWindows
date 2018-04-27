@@ -1,0 +1,20 @@
+repadmin /showrepl
+dcdiag /test:CheckSecurityError
+
+co to GPO
+
+polecenia:
+gpresult /r
+gpupdate /force
+
+1. local policies
+2. site
+3. domain
+OU (Organizational Unit)
+4. Computer GPO
+5. User GPO
+
+Zadania
+1. Wprowadzic polise, ktora zmienilaby tlo pulpitu
+na kolor niebieski
+2. Brak dostepu do panelu sterowania
